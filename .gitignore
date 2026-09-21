@@ -1,0 +1,15 @@
+.DS_Store
+
+# Xcode user-specific state and build output
+xcuserdata/
+DerivedData/
+*.xcuserstate
+/build/
+
+# Web dependencies and generated output
+web/node_modules/
+web/dist/
+web/.wrangler/
+web/.next/
+web/.vinext/
+web/*.log
